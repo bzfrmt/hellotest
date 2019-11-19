@@ -6,5 +6,6 @@ to delete row
 to update
 ебать ещё строк
 also row
+hello, rebase
 
 
